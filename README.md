@@ -1,1 +1,1 @@
-# sentimental-analysis-on-financial-data
+# Sentimental-Analysis-of-Financial-dataset
